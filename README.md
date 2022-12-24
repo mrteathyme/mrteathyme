@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mrteathyme/mrteathyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=mrteathyme)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrteathyme&theme=shades-of-purple)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mrteathyme&show_icons=true&count_private=true&theme=shades-of-purple)
+
+
